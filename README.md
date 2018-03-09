@@ -1,0 +1,2 @@
+# BetterBot
+God Arm Bot
